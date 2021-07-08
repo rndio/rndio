@@ -1,4 +1,4 @@
-### Hi I'm [Rendio Simamora][website] <img src="wave.gif" width="23px"><img align="right" height="160px" width="auto" src="https://im5.ezgif.com/tmp/ezgif-5-1df460fed746.gif" />
+### Hi I'm [Rendio Simamora][website] <img src="wave.gif" width="23px"><img align="right" height="160px" width="auto" src="picture.gif" />
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)][blog]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
