@@ -1,6 +1,3 @@
-<h1 align="center" style="display:none;"></h1>
-
-
 ### Hi I'm [Rendio Simamora][website] <img src="wave.gif" width="23px"><img align="right" height="160px" width="auto" src="https://im5.ezgif.com/tmp/ezgif-5-1df460fed746.gif" />
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)][blog]
@@ -15,7 +12,6 @@
 ---
 
 ### Languages and Tools 🛠 
-
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
