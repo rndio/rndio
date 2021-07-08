@@ -1,7 +1,7 @@
 <h1 align="center" style="display:none;"></h1>
 
 
-### Hi I'm [ʀɴᴅ][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="23px"><img align="right" height="160px" width="auto" src="https://im5.ezgif.com/tmp/ezgif-5-1df460fed746.gif" />
+### Hi I'm [Rendio Simamora][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="23px"><img align="right" height="160px" width="auto" src="https://im5.ezgif.com/tmp/ezgif-5-1df460fed746.gif" />
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)][blog]
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
@@ -23,6 +23,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
