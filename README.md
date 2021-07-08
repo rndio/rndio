@@ -2,9 +2,10 @@
 
 
 ### Hi I'm [Rendio Simamora](https://www.rndio.my.id) <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="23px"><img align="right" height="160px" width="auto" src="https://im5.ezgif.com/tmp/ezgif-5-1df460fed746.gif" />
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://s.id/rndyt)](https://s.id/rndyt)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://s.id/rndig)](https:/s.id/rndig)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mail@rndio.my.id-c14438)](mailto:mail@rndio.my.id)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)][blog]
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
 
 - 👨‍💻 I'm a Student
 - 📚 Learn about Networking and Programming
@@ -12,13 +13,6 @@
 
 ---
 
-### Find Me 📝
-
-[<img align="left" alt="Website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website][<img align="left" alt="LinkedIn" height="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>][linkedin]
-
-<br />
-
----
 ### Languages and Tools 🛠 
 
 
@@ -36,12 +30,15 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndio&theme=gotham&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rndio&show_icons=true&theme=gotham)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndio&theme=gotham&layout=compact)
 
-[blog]: https://www.rndio.my.id
+[blog]: https://s.id/rndblog
 [website]: https://me.rndio.my.id
 [linkedin]: https://www.linkedin.com/in/rendio-simamora-b24908199/
-[twitter]: https://
+[twitter]: https://s.id/rndtw
+[youtube]: https://s.id/rndyt
+[instagram]: https://s.id/rndig
+[email]: mailto:mail@rndio.my.id
