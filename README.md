@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm <a href="https://www.rndio.my.id">Rendio Simamora</a> <img src="wave.gif" width="30px"/></h1>
+<h2 align="center">Hi I'm <a href="https://www.rndio.my.id">Rendio Simamora</a> <img src="wave.gif" width="30px"/></h2>
 <p align="center">
 <a href="https://me.rndio.my.id"><img height="170px" width="auto" src="picture.gif"/></a>
 </p>
