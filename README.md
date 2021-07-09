@@ -32,16 +32,7 @@
 <a href="https://www.apachefriends.org/"><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"></a>
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndio&theme=gotham&layout=compact">
-</br>
-<img src="https://github-readme-stats.vercel.app/api?username=rndio&show_icons=true&theme=gotham">
-</p>
-
-
-[twitter]: https://s.id/rndtw
-[website]: https://me.rndio.my.id
+</br></br>
+<a href="https://www.rndio.my.id"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndio&theme=gotham&layout=compact"></a>
+</br></br>
+<a href="https://me.rndio.my.id"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=RNDIO&color=000000"></a></p>
