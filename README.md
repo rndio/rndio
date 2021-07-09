@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm <a href="https://www.rndio.my.id">Rendio Simamora</a> <img src="wave.gif" width="30px"/></h2>
+<h1 align="center">Hi I'm <a href="https://www.rndio.my.id">Rendio Simamora</a> <img src="wave.gif" width="30px"/></h1>
 <p align="center">
 <a href="https://me.rndio.my.id"><img height="170px" width="auto" src="picture.gif"/></a>
 </p>
@@ -16,7 +16,6 @@
 
 ### Languages and Tools 🛠 
 </br>
-
 <p align="center">
 <a href="https://html.com/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
