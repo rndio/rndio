@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hi+I'm+Rendio;Welcome+to+my+Github+Profile"/>
-  <br/>
-  <img src="https://lanyard.cnrad.dev/api/757142104588812368?theme=dark&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...&bg=171212"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=400&color=9745F5&center=true&vCenter=true&random=false&width=435&height=100&lines=Hello+World!;I'm+rndio+%F0%9F%91%8B%F0%9F%8F%BB"/>
+</div>
+
+<div align="center">
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=rndio&theme=midnight-purple&hide_border=true"/>
+  <img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndio&layout=donut&theme=midnight-purple"/>
 </div>
